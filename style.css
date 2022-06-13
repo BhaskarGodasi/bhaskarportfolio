@@ -1,0 +1,192 @@
+form{
+    width: 70%;
+    height:auto;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    padding:200px 10px 50px  ;
+    
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    padding: 20px;
+}
+.icon{
+    width: 15px;
+    height: 15px;
+    color: darkturquoise;
+}
+
+nav{
+    background-color: black;
+    border: 2px solid azure;
+    
+}
+.img1{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-left: 40px;
+}
+ul{
+    list-style-type: none;
+}
+.sidenav{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    padding-top: 10px;
+}
+.sidenav a{
+    padding: 10px 15px ;
+    color: darkgray;
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+}
+footer{
+    color: indianred;
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgba(90 36 15 0.1);
+}
+.main{
+    width: auto;
+    height: auto;
+    background-color: azure;
+    border: 2px solid black;
+    margin-left: 250px;
+}
+.home{
+    width: 100%;
+    height: 900px;
+    background-image: url(myimg.jpeg);
+    background-repeat: no-repeat;
+    
+    background-size: 1020px;
+    text-indent: 50px;
+    text-decoration-color: 200px;
+}
+.about{
+    padding: 10px;
+
+}
+#education{
+    display: flex;
+}
+.e1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+   
+}
+.e3{
+   display: flex;
+   flex-direction: column;
+  
+}
+.e2{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+p{
+    padding: 20px;
+}
+h3{
+    color: darkseagreen;
+    padding: 20px;
+}
+.s1{
+    padding: 5px 20px 5px 20px;
+    
+    
+}
+
+#skills{
+    display: flex;
+}
+.s{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+.si{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    padding-top: 70px;
+}
+.s2{
+    padding: 5px 20px 5px 20px;
+    
+}
+img{
+    width: 250px;
+    height: 180px;
+}
+h6{
+    text-align: left;
+    margin-left: 50px;
+    color: cyan;
+}
+.t{
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 10px;
+}
+th{
+    padding: 10px;
+}
+h4{
+    color: lightsalmon;
+    padding: 20px 20px 0px 20px;
+}
+h5{
+    padding-left: 10px;
+}
+.d{
+    margin-left: 680px;
+}
+input[type=text]{
+    border-radius: 10px;
+    text-align: center;
+    color: teal;
+}
+
+#pimg{
+    width: 450px;
+    height: 350px;
+   
+}
+.s3{
+    display: flex;
+    margin-left: 350px;
+
+}
+.si2{
+    display: flex;
+    flex-direction:column ;
+    margin-top: 90px;
+    
+}
+.si1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.b{
+    border-left:2px solid brown;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+#i{
+    display: flex;
+}
+.i1{
+    display: flex;
+
+}
+
